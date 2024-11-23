@@ -1,2 +1,3 @@
-# Gallery
-Gallery for Demonstration of Bioinformatics Figures
+## Overview
+This repository is showcasing various bioinformatics visualizations from the work of Zhenghao Xiao.
+Heatmap 
