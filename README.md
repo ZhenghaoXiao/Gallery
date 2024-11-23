@@ -6,3 +6,6 @@ This repository is showcasing various bioinformatics visualizations from the wor
 ![](Sparcc2.png)
 
 ## Mutation Analysis Visualization Using Self-Developed R Package--LegitXMut (Heatmap, Rainfall Plot, Manhattan Plot)
+![](heatmap.png)
+![](manhattan.png)
+![](rainfall.png)
